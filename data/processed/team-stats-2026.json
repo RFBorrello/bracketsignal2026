@@ -1,0 +1,4804 @@
+{
+  "generatedAt": "2026-03-19T15:02:14.843048+00:00",
+  "updated": "Wednesday, March 18, 2026 1:03 am - Through games Tuesday, March 17, 2026",
+  "source": {
+    "label": "Official NCAA team statistics via ncaa-api snapshot",
+    "url": "https://www.ncaa.com/stats/basketball-men/d1/current/team/145"
+  },
+  "recordMetric": {
+    "statId": 168,
+    "title": "Winning Percentage",
+    "valueField": "Pct"
+  },
+  "metrics": {
+    "scoringOffense": {
+      "statId": 145,
+      "title": "Scoring Offense",
+      "valueField": "PPG"
+    },
+    "scoringDefense": {
+      "statId": 146,
+      "title": "Scoring Defense",
+      "valueField": "OPP PPG"
+    },
+    "scoringMargin": {
+      "statId": 147,
+      "title": "Scoring Margin",
+      "valueField": "SCR MAR"
+    },
+    "threePointPct": {
+      "statId": 152,
+      "title": "Three Point Percentage",
+      "valueField": "3FG%"
+    },
+    "threePointPctDefense": {
+      "statId": 518,
+      "title": "Three Point Percentage Defense",
+      "valueField": "Pct"
+    },
+    "offensiveReboundsPerGame": {
+      "statId": 857,
+      "title": "Rebounds (Offensive) Per Game",
+      "valueField": "RPG"
+    },
+    "turnoversPerGame": {
+      "statId": 217,
+      "title": "Turnovers Per Game",
+      "valueField": "TOPG"
+    },
+    "assistTurnoverRatio": {
+      "statId": 474,
+      "title": "Assist/Turnover Ratio",
+      "valueField": "Ratio"
+    },
+    "turnoverMargin": {
+      "statId": 519,
+      "title": "Turnover Margin",
+      "valueField": "Ratio"
+    },
+    "turnoversForcedPerGame": {
+      "statId": 931,
+      "title": "Turnovers Forced Per Game",
+      "valueField": "Avg"
+    }
+  },
+  "teams": {
+    "Akron": {
+      "team": "Akron",
+      "sourceTeam": "Akron",
+      "stats": {
+        "scoringOffense": {
+          "rank": 7,
+          "value": 88.4,
+          "display": "88.4",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 169,
+          "value": 73.5,
+          "display": "73.5",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 9,
+          "value": 14.0,
+          "display": "14",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 21,
+          "value": 37.9,
+          "display": "37.90",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 259,
+          "value": 34.9,
+          "display": "34.9",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 127,
+          "value": 11.35,
+          "display": "11.35",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 132,
+          "value": 10.9,
+          "display": "10.9",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 17,
+          "value": 1.69,
+          "display": "1.69",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 46,
+          "value": 2.6,
+          "display": "2.6",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 58,
+          "value": 13.53,
+          "display": "13.53",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 7,
+        "wins": 29,
+        "losses": 5,
+        "pct": 85.3,
+        "display": "29-5",
+        "games": 34
+      }
+    },
+    "Alabama": {
+      "team": "Alabama",
+      "sourceTeam": "Alabama",
+      "stats": {
+        "scoringOffense": {
+          "rank": 1,
+          "value": 91.7,
+          "display": "91.7",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 352,
+          "value": 83.5,
+          "display": "83.5",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 54,
+          "value": 8.0,
+          "display": "8",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 81,
+          "value": 35.81,
+          "display": "35.81",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 168,
+          "value": 33.5,
+          "display": "33.5",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 73,
+          "value": 12.22,
+          "display": "12.22",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 34,
+          "value": 9.8,
+          "display": "9.8",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 24,
+          "value": 1.65,
+          "display": "1.65",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 214,
+          "value": -0.3,
+          "display": "-0.3",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 338,
+          "value": 9.5,
+          "display": "9.50",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": 43,
+        "wins": 23,
+        "losses": 9,
+        "pct": 71.9,
+        "display": "23-9",
+        "games": 32
+      }
+    },
+    "Arizona": {
+      "team": "Arizona",
+      "sourceTeam": "Arizona",
+      "stats": {
+        "scoringOffense": {
+          "rank": 14,
+          "value": 86.1,
+          "display": "86.1",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 52,
+          "value": 68.8,
+          "display": "68.8",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 6,
+          "value": 17.0,
+          "display": "17",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 63,
+          "value": 36.04,
+          "display": "36.04",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 50,
+          "value": 31.4,
+          "display": "31.4",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 37,
+          "value": 12.76,
+          "display": "12.76",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 114,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 37,
+          "value": 1.57,
+          "display": "1.57",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 106,
+          "value": 1.1,
+          "display": "1.1",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 147,
+          "value": 11.97,
+          "display": "11.97",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 2,
+        "wins": 32,
+        "losses": 2,
+        "pct": 94.1,
+        "display": "32-2",
+        "games": 34
+      }
+    },
+    "Arkansas": {
+      "team": "Arkansas",
+      "sourceTeam": "Arkansas",
+      "stats": {
+        "scoringOffense": {
+          "rank": 4,
+          "value": 89.9,
+          "display": "89.9",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 328,
+          "value": 80.1,
+          "display": "80.1",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 39,
+          "value": 9.0,
+          "display": "9",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 10,
+          "value": 38.87,
+          "display": "38.87",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 66,
+          "value": 31.7,
+          "display": "31.7",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 166,
+          "value": 11.03,
+          "display": "11.03",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 9.0,
+          "display": "9.0",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 5,
+          "value": 1.89,
+          "display": "1.89",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 50,
+          "value": 2.5,
+          "display": "2.5",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 194,
+          "value": 11.53,
+          "display": "11.53",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 30,
+        "wins": 26,
+        "losses": 8,
+        "pct": 76.5,
+        "display": "26-8",
+        "games": 34
+      }
+    },
+    "BYU": {
+      "team": "BYU",
+      "sourceTeam": "BYU",
+      "stats": {
+        "scoringOffense": {
+          "rank": 24,
+          "value": 83.9,
+          "display": "83.9",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 223,
+          "value": 75.3,
+          "display": "75.3",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 49,
+          "value": 8.0,
+          "display": "8",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 131,
+          "value": 34.92,
+          "display": "34.92",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 283,
+          "value": 35.3,
+          "display": "35.3",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 59,
+          "value": 12.38,
+          "display": "12.38",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 120,
+          "value": 10.9,
+          "display": "10.9",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 158,
+          "value": 1.24,
+          "display": "1.24",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 129,
+          "value": 0.8,
+          "display": ".8",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 183,
+          "value": 11.65,
+          "display": "11.65",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 58,
+        "wins": 23,
+        "losses": 11,
+        "pct": 67.6,
+        "display": "23-11",
+        "games": 34
+      }
+    },
+    "California Baptist": {
+      "team": "California Baptist",
+      "sourceTeam": "California Baptist",
+      "stats": {
+        "scoringOffense": {
+          "rank": 256,
+          "value": 73.0,
+          "display": "73.0",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 31,
+          "value": 67.6,
+          "display": "67.6",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": null,
+          "value": 5.0,
+          "display": "5",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 197,
+          "value": 33.7,
+          "display": "33.70",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 8,
+          "value": 29.7,
+          "display": "29.7",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 9,
+          "value": 13.88,
+          "display": "13.88",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 265,
+          "value": 12.4,
+          "display": "12.4",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 348,
+          "value": 0.84,
+          "display": ".84",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 245,
+          "value": -0.7,
+          "display": "-0.7",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 176,
+          "value": 11.7,
+          "display": "11.70",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": 33,
+        "wins": 25,
+        "losses": 8,
+        "pct": 75.8,
+        "display": "25-8",
+        "games": 33
+      }
+    },
+    "Clemson": {
+      "team": "Clemson",
+      "sourceTeam": "Clemson",
+      "stats": {
+        "scoringOffense": {
+          "rank": 228,
+          "value": 74.1,
+          "display": "74.1",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 28,
+          "value": 66.7,
+          "display": "66.7",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 60,
+          "value": 7.0,
+          "display": "7",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 179,
+          "value": 34.11,
+          "display": "34.11",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 114,
+          "value": 32.6,
+          "display": "32.6",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 308,
+          "value": 9.29,
+          "display": "9.29",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 19,
+          "value": 9.4,
+          "display": "9.4",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 99,
+          "value": 1.36,
+          "display": "1.36",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 60,
+          "value": 2.1,
+          "display": "2.1",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 11.53,
+          "display": "11.53",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 46,
+        "wins": 24,
+        "losses": 10,
+        "pct": 70.6,
+        "display": "24-10",
+        "games": 34
+      }
+    },
+    "Duke": {
+      "team": "Duke",
+      "sourceTeam": "Duke",
+      "stats": {
+        "scoringOffense": {
+          "rank": 47,
+          "value": 82.3,
+          "display": "82.3",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 3,
+          "value": 63.1,
+          "display": "63.1",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 2,
+          "value": 19.0,
+          "display": "19",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 117,
+          "value": 35.07,
+          "display": "35.07",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 26,
+          "value": 30.4,
+          "display": "30.4",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 53,
+          "value": 12.47,
+          "display": "12.47",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 85,
+          "value": 10.5,
+          "display": "10.5",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 29,
+          "value": 1.61,
+          "display": "1.61",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 77,
+          "value": 1.6,
+          "display": "1.6",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 133,
+          "value": 12.18,
+          "display": "12.18",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 32,
+        "losses": 2,
+        "pct": 94.1,
+        "display": "32-2",
+        "games": 34
+      }
+    },
+    "Florida": {
+      "team": "Florida",
+      "sourceTeam": "Florida",
+      "stats": {
+        "scoringOffense": {
+          "rank": 12,
+          "value": 86.8,
+          "display": "86.8",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 123,
+          "value": 72.0,
+          "display": "72.0",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 10,
+          "value": 14.0,
+          "display": "14",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 327,
+          "value": 30.8,
+          "display": "30.80",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 93,
+          "value": 32.4,
+          "display": "32.4",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 1,
+          "value": 16.12,
+          "display": "16.12",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 223,
+          "value": 11.9,
+          "display": "11.9",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 79,
+          "value": 1.39,
+          "display": "1.39",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 257,
+          "value": -0.8,
+          "display": "-0.8",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 231,
+          "value": 11.15,
+          "display": "11.15",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": 24,
+        "wins": 26,
+        "losses": 7,
+        "pct": 78.8,
+        "display": "26-7",
+        "games": 33
+      }
+    },
+    "Furman": {
+      "team": "Furman",
+      "sourceTeam": "Furman",
+      "stats": {
+        "scoringOffense": {
+          "rank": 159,
+          "value": 76.5,
+          "display": "76.5",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 87,
+          "value": 70.5,
+          "display": "70.5",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 88,
+          "value": 5.0,
+          "display": "5",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 258,
+          "value": 32.72,
+          "display": "32.72",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 98,
+          "value": 32.4,
+          "display": "32.4",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 179,
+          "value": 10.88,
+          "display": "10.88",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 11.9,
+          "display": "11.9",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 122,
+          "value": 1.31,
+          "display": "1.31",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 327,
+          "value": -2.3,
+          "display": "-2.3",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 334,
+          "value": 9.65,
+          "display": "9.65",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 22,
+        "losses": 12,
+        "pct": 64.7,
+        "display": "22-12",
+        "games": 34
+      }
+    },
+    "Georgia": {
+      "team": "Georgia",
+      "sourceTeam": "Georgia",
+      "stats": {
+        "scoringOffense": {
+          "rank": 5,
+          "value": 89.8,
+          "display": "89.8",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 313,
+          "value": 79.2,
+          "display": "79.2",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 29,
+          "value": 10.0,
+          "display": "10",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 180,
+          "value": 34.09,
+          "display": "34.09",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 175,
+          "value": 33.7,
+          "display": "33.7",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 29,
+          "value": 13.03,
+          "display": "13.03",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.7,
+          "display": "10.7",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 76,
+          "value": 1.4,
+          "display": "1.40",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 29,
+          "value": 3.1,
+          "display": "3.1",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 42,
+          "value": 13.75,
+          "display": "13.75",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": 56,
+        "wins": 22,
+        "losses": 10,
+        "pct": 68.8,
+        "display": "22-10",
+        "games": 32
+      }
+    },
+    "Gonzaga": {
+      "team": "Gonzaga",
+      "sourceTeam": "Gonzaga",
+      "stats": {
+        "scoringOffense": {
+          "rank": 17,
+          "value": 85.1,
+          "display": "85.1",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 17,
+          "value": 66.0,
+          "display": "66.0",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 3,
+          "value": 19.0,
+          "display": "19",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 187,
+          "value": 33.95,
+          "display": "33.95",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 35,
+          "value": 30.8,
+          "display": "30.8",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 85,
+          "value": 11.97,
+          "display": "11.97",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 27,
+          "value": 9.7,
+          "display": "9.7",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 4,
+          "value": 1.9,
+          "display": "1.90",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 5,
+          "value": 4.8,
+          "display": "4.8",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 22,
+          "value": 14.45,
+          "display": "14.45",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": 5,
+        "wins": 30,
+        "losses": 3,
+        "pct": 90.9,
+        "display": "30-3",
+        "games": 33
+      }
+    },
+    "Hawai'i": {
+      "team": "Hawai'i",
+      "sourceTeam": "Hawaii",
+      "stats": {
+        "scoringOffense": {
+          "rank": 90,
+          "value": 79.6,
+          "display": "79.6",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 65,
+          "value": 69.7,
+          "display": "69.7",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 38,
+          "value": 9.0,
+          "display": "9",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 310,
+          "value": 31.51,
+          "display": "31.51",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 25,
+          "value": 30.4,
+          "display": "30.4",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 154,
+          "value": 11.09,
+          "display": "11.09",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 330,
+          "value": 13.5,
+          "display": "13.5",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 295,
+          "value": 1.02,
+          "display": "1.02",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 289,
+          "value": -1.2,
+          "display": "-1.2",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 129,
+          "value": 12.22,
+          "display": "12.22",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": 37,
+        "wins": 24,
+        "losses": 8,
+        "pct": 75.0,
+        "display": "24-8",
+        "games": 32
+      }
+    },
+    "High Point": {
+      "team": "High Point",
+      "sourceTeam": "High Point",
+      "stats": {
+        "scoringOffense": {
+          "rank": 3,
+          "value": 90.0,
+          "display": "90.0",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 77,
+          "value": 70.3,
+          "display": "70.3",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 1,
+          "value": 19.0,
+          "display": "19",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 92,
+          "value": 35.56,
+          "display": "35.56",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 67,
+          "value": 31.7,
+          "display": "31.7",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 107,
+          "value": 11.62,
+          "display": "11.62",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 17,
+          "value": 9.4,
+          "display": "9.4",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 12,
+          "value": 1.74,
+          "display": "1.74",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 2,
+          "value": 7.1,
+          "display": "7.1",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 3,
+          "value": 16.41,
+          "display": "16.41",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 6,
+        "wins": 30,
+        "losses": 4,
+        "pct": 88.2,
+        "display": "30-4",
+        "games": 34
+      }
+    },
+    "Hofstra": {
+      "team": "Hofstra",
+      "sourceTeam": "Hofstra",
+      "stats": {
+        "scoringOffense": {
+          "rank": 180,
+          "value": 75.6,
+          "display": "75.6",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 18,
+          "value": 66.1,
+          "display": "66.1",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 42,
+          "value": 9.0,
+          "display": "9",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 33,
+          "value": 36.76,
+          "display": "36.76",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 56,
+          "value": 31.6,
+          "display": "31.6",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 58,
+          "value": 12.41,
+          "display": "12.41",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 95,
+          "value": 10.6,
+          "display": "10.6",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 187,
+          "value": 1.21,
+          "display": "1.21",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 233,
+          "value": -0.5,
+          "display": "-0.5",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 308,
+          "value": 10.09,
+          "display": "10.09",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 24,
+        "losses": 10,
+        "pct": 70.6,
+        "display": "24-10",
+        "games": 34
+      }
+    },
+    "Houston": {
+      "team": "Houston",
+      "sourceTeam": "Houston",
+      "stats": {
+        "scoringOffense": {
+          "rank": 148,
+          "value": 77.1,
+          "display": "77.1",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 2,
+          "value": 62.9,
+          "display": "62.9",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 12,
+          "value": 14.0,
+          "display": "14",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 129,
+          "value": 34.93,
+          "display": "34.93",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 80,
+          "value": 32.1,
+          "display": "32.1",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 36,
+          "value": 12.79,
+          "display": "12.79",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 1,
+          "value": 8.5,
+          "display": "8.5",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 13,
+          "value": 1.73,
+          "display": "1.73",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 3,
+          "value": 5.2,
+          "display": "5.2",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 45,
+          "value": 13.71,
+          "display": "13.71",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 13,
+        "wins": 28,
+        "losses": 6,
+        "pct": 82.4,
+        "display": "28-6",
+        "games": 34
+      }
+    },
+    "Howard": {
+      "team": "Howard",
+      "sourceTeam": "Howard",
+      "stats": {
+        "scoringOffense": {
+          "rank": 130,
+          "value": 77.7,
+          "display": "77.7",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 39,
+          "value": 68.2,
+          "display": "68.2",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 43,
+          "value": 9.0,
+          "display": "9",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 126,
+          "value": 34.95,
+          "display": "34.95",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 24,
+          "value": 30.3,
+          "display": "30.3",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 12.38,
+          "display": "12.38",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 327,
+          "value": 13.4,
+          "display": "13.4",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 186,
+          "value": 1.21,
+          "display": "1.21",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 82,
+          "value": 1.5,
+          "display": "1.5",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 13,
+          "value": 14.91,
+          "display": "14.91",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 24,
+        "losses": 10,
+        "pct": 70.6,
+        "display": "24-10",
+        "games": 34
+      }
+    },
+    "Idaho": {
+      "team": "Idaho",
+      "sourceTeam": "Idaho",
+      "stats": {
+        "scoringOffense": {
+          "rank": 108,
+          "value": 78.7,
+          "display": "78.7",
+          "games": 35
+        },
+        "scoringDefense": {
+          "rank": 137,
+          "value": 72.6,
+          "display": "72.6",
+          "games": 35
+        },
+        "scoringMargin": {
+          "rank": 86,
+          "value": 6.0,
+          "display": "6",
+          "games": 35
+        },
+        "threePointPct": {
+          "rank": 91,
+          "value": 35.58,
+          "display": "35.58",
+          "games": 35
+        },
+        "threePointPctDefense": {
+          "rank": 235,
+          "value": 34.3,
+          "display": "34.3",
+          "games": 35
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 201,
+          "value": 10.66,
+          "display": "10.66",
+          "games": 35
+        },
+        "turnoversPerGame": {
+          "rank": 94,
+          "value": 10.6,
+          "display": "10.6",
+          "games": 35
+        },
+        "assistTurnoverRatio": {
+          "rank": 203,
+          "value": 1.19,
+          "display": "1.19",
+          "games": 35
+        },
+        "turnoverMargin": {
+          "rank": 169,
+          "value": 0.3,
+          "display": ".3",
+          "games": 35
+        },
+        "turnoversForcedPerGame": {
+          "rank": 261,
+          "value": 10.83,
+          "display": "10.83",
+          "games": 35
+        }
+      },
+      "record": {
+        "rank": 113,
+        "wins": 21,
+        "losses": 14,
+        "pct": 60.0,
+        "display": "21-14",
+        "games": 35
+      }
+    },
+    "Illinois": {
+      "team": "Illinois",
+      "sourceTeam": "Illinois",
+      "stats": {
+        "scoringOffense": {
+          "rank": 21,
+          "value": 84.4,
+          "display": "84.4",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 66,
+          "value": 69.8,
+          "display": "69.8",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 11,
+          "value": 14.0,
+          "display": "14",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 150,
+          "value": 34.69,
+          "display": "34.69",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 48,
+          "value": 31.4,
+          "display": "31.4",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 20,
+          "value": 13.19,
+          "display": "13.19",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 6,
+          "value": 8.9,
+          "display": "8.9",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 22,
+          "value": 1.65,
+          "display": "1.65",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 278,
+          "value": -1.1,
+          "display": "-1.1",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 361,
+          "value": 7.81,
+          "display": "7.81",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 24,
+        "losses": 8,
+        "pct": 75.0,
+        "display": "24-8",
+        "games": 32
+      }
+    },
+    "Iowa": {
+      "team": "Iowa",
+      "sourceTeam": "Iowa",
+      "stats": {
+        "scoringOffense": {
+          "rank": 192,
+          "value": 75.2,
+          "display": "75.2",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 16,
+          "value": 66.0,
+          "display": "66.0",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 44,
+          "value": 9.0,
+          "display": "9",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 86,
+          "value": 35.72,
+          "display": "35.72",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 178,
+          "value": 33.7,
+          "display": "33.7",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 327,
+          "value": 8.82,
+          "display": "8.82",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 9.7,
+          "display": "9.7",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 36,
+          "value": 1.58,
+          "display": "1.58",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 11,
+          "value": 3.7,
+          "display": "3.7",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 13.36,
+          "display": "13.36",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 21,
+        "losses": 12,
+        "pct": 63.6,
+        "display": "21-12",
+        "games": 33
+      }
+    },
+    "Iowa State": {
+      "team": "Iowa State",
+      "sourceTeam": "Iowa St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": 52,
+          "value": 81.8,
+          "display": "81.8",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 12,
+          "value": 65.1,
+          "display": "65.1",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 7,
+          "value": 16.0,
+          "display": "16",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 13,
+          "value": 38.66,
+          "display": "38.66",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 81,
+          "value": 32.1,
+          "display": "32.1",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 95,
+          "value": 11.85,
+          "display": "11.85",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 61,
+          "value": 10.3,
+          "display": "10.3",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 19,
+          "value": 1.68,
+          "display": "1.68",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 4,
+          "value": 5.0,
+          "display": "5.0",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 7,
+          "value": 15.26,
+          "display": "15.26",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 20,
+        "wins": 27,
+        "losses": 7,
+        "pct": 79.4,
+        "display": "27-7",
+        "games": 34
+      }
+    },
+    "Kansas": {
+      "team": "Kansas",
+      "sourceTeam": "Kansas",
+      "stats": {
+        "scoringOffense": {
+          "rank": 178,
+          "value": 75.6,
+          "display": "75.6",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 58,
+          "value": 69.4,
+          "display": "69.4",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": null,
+          "value": 6.0,
+          "display": "6",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 124,
+          "value": 34.96,
+          "display": "34.96",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 34,
+          "value": 30.7,
+          "display": "30.7",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 251,
+          "value": 10.12,
+          "display": "10.12",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 102,
+          "value": 10.7,
+          "display": "10.7",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 107,
+          "value": 1.34,
+          "display": "1.34",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 277,
+          "value": -1.1,
+          "display": "-1.1",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 336,
+          "value": 9.61,
+          "display": "9.61",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 23,
+        "losses": 10,
+        "pct": 69.7,
+        "display": "23-10",
+        "games": 33
+      }
+    },
+    "Kennesaw State": {
+      "team": "Kennesaw State",
+      "sourceTeam": "Kennesaw St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": 29,
+          "value": 83.4,
+          "display": "83.4",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 236,
+          "value": 76.1,
+          "display": "76.1",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 61,
+          "value": 7.0,
+          "display": "7",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 123,
+          "value": 34.97,
+          "display": "34.97",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 149,
+          "value": 33.2,
+          "display": "33.2",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 13.91,
+          "display": "13.91",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 217,
+          "value": 11.9,
+          "display": "11.9",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 194,
+          "value": 1.2,
+          "display": "1.20",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 0.3,
+          "display": ".3",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 12.18,
+          "display": "12.18",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 21,
+        "losses": 13,
+        "pct": 61.8,
+        "display": "21-13",
+        "games": 34
+      }
+    },
+    "Kentucky": {
+      "team": "Kentucky",
+      "sourceTeam": "Kentucky",
+      "stats": {
+        "scoringOffense": {
+          "rank": 69,
+          "value": 80.8,
+          "display": "80.8",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 179,
+          "value": 73.8,
+          "display": "73.8",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 71,
+          "value": 6.0,
+          "display": "6",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 178,
+          "value": 34.12,
+          "display": "34.12",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 60,
+          "value": 31.6,
+          "display": "31.6",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 11.94,
+          "display": "11.94",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.5,
+          "display": "10.5",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 46,
+          "value": 1.52,
+          "display": "1.52",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 147,
+          "value": 0.6,
+          "display": ".6",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 241,
+          "value": 11.06,
+          "display": "11.06",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 21,
+        "losses": 13,
+        "pct": 61.8,
+        "display": "21-13",
+        "games": 34
+      }
+    },
+    "LIU": {
+      "team": "LIU",
+      "sourceTeam": "LIU",
+      "stats": {
+        "scoringOffense": {
+          "rank": 229,
+          "value": 74.1,
+          "display": "74.1",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 102,
+          "value": 71.1,
+          "display": "71.1",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 156,
+          "value": 2.0,
+          "display": "2",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 57,
+          "value": 36.12,
+          "display": "36.12",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 73,
+          "value": 31.9,
+          "display": "31.9",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 11.35,
+          "display": "11.35",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 13.0,
+          "display": "13.0",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 278,
+          "value": 1.05,
+          "display": "1.05",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 193,
+          "value": -0.1,
+          "display": "-0.1",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 79,
+          "value": 12.94,
+          "display": "12.94",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 24,
+        "losses": 10,
+        "pct": 70.6,
+        "display": "24-10",
+        "games": 34
+      }
+    },
+    "Louisville": {
+      "team": "Louisville",
+      "sourceTeam": "Louisville",
+      "stats": {
+        "scoringOffense": {
+          "rank": 20,
+          "value": 84.7,
+          "display": "84.7",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 129,
+          "value": 72.2,
+          "display": "72.2",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 15,
+          "value": 12.0,
+          "display": "12",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 87,
+          "value": 35.68,
+          "display": "35.68",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 119,
+          "value": 32.7,
+          "display": "32.7",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 133,
+          "value": 11.33,
+          "display": "11.33",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 191,
+          "value": 11.6,
+          "display": "11.6",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 59,
+          "value": 1.47,
+          "display": "1.47",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 175,
+          "value": 0.2,
+          "display": ".2",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 159,
+          "value": 11.85,
+          "display": "11.85",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 23,
+        "losses": 10,
+        "pct": 69.7,
+        "display": "23-10",
+        "games": 33
+      }
+    },
+    "McNeese": {
+      "team": "McNeese",
+      "sourceTeam": "McNeese",
+      "stats": {
+        "scoringOffense": {
+          "rank": 83,
+          "value": 80.0,
+          "display": "80.0",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 22,
+          "value": 66.5,
+          "display": "66.5",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 14,
+          "value": 13.0,
+          "display": "13",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 289,
+          "value": 31.93,
+          "display": "31.93",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 94,
+          "value": 32.4,
+          "display": "32.4",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 45,
+          "value": 12.67,
+          "display": "12.67",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 25,
+          "value": 9.6,
+          "display": "9.6",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 57,
+          "value": 1.47,
+          "display": "1.47",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 1,
+          "value": 7.3,
+          "display": "7.3",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 2,
+          "value": 16.94,
+          "display": "16.94",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": 10,
+        "wins": 28,
+        "losses": 5,
+        "pct": 84.8,
+        "display": "28-5",
+        "games": 33
+      }
+    },
+    "Miami": {
+      "team": "Miami",
+      "sourceTeam": "Miami (FL)",
+      "stats": {
+        "scoringOffense": {
+          "rank": 51,
+          "value": 81.9,
+          "display": "81.9",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": null,
+          "value": 71.1,
+          "display": "71.1",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 28,
+          "value": 10.0,
+          "display": "10",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 148,
+          "value": 34.72,
+          "display": "34.72",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 291,
+          "value": 35.4,
+          "display": "35.4",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 72,
+          "value": 12.24,
+          "display": "12.24",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 154,
+          "value": 11.2,
+          "display": "11.2",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 68,
+          "value": 1.44,
+          "display": "1.44",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 83,
+          "value": 1.5,
+          "display": "1.5",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 92,
+          "value": 12.73,
+          "display": "12.73",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 25,
+        "losses": 8,
+        "pct": 75.8,
+        "display": "25-8",
+        "games": 33
+      }
+    },
+    "Miami (OH)": {
+      "team": "Miami (OH)",
+      "sourceTeam": "Miami (OH)",
+      "stats": {
+        "scoringOffense": {
+          "rank": 2,
+          "value": 90.7,
+          "display": "90.7",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 220,
+          "value": 75.3,
+          "display": "75.3",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 8,
+          "value": 15.0,
+          "display": "15",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 8,
+          "value": 39.16,
+          "display": "39.16",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 103,
+          "value": 32.5,
+          "display": "32.5",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 340,
+          "value": 8.28,
+          "display": "8.28",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.5,
+          "display": "10.5",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 42,
+          "value": 1.54,
+          "display": "1.54",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 53,
+          "value": 2.4,
+          "display": "2.4",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 81,
+          "value": 12.88,
+          "display": "12.88",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": 1,
+        "wins": 31,
+        "losses": 1,
+        "pct": 96.9,
+        "display": "31-1",
+        "games": 32
+      }
+    },
+    "Michigan": {
+      "team": "Michigan",
+      "sourceTeam": "Michigan",
+      "stats": {
+        "scoringOffense": {
+          "rank": 11,
+          "value": 86.8,
+          "display": "86.8",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 55,
+          "value": 69.2,
+          "display": "69.2",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 5,
+          "value": 17.0,
+          "display": "17",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": null,
+          "value": 36.02,
+          "display": "36.02",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 18,
+          "value": 30.2,
+          "display": "30.2",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 11.0,
+          "display": "11.00",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 12.0,
+          "display": "12.0",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 40,
+          "value": 1.54,
+          "display": "1.54",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 265,
+          "value": -0.9,
+          "display": "-0.9",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 238,
+          "value": 11.09,
+          "display": "11.09",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": 4,
+        "wins": 31,
+        "losses": 3,
+        "pct": 91.2,
+        "display": "31-3",
+        "games": 34
+      }
+    },
+    "Michigan State": {
+      "team": "Michigan State",
+      "sourceTeam": "Michigan St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": 101,
+          "value": 78.9,
+          "display": "78.9",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 41,
+          "value": 68.4,
+          "display": "68.4",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": null,
+          "value": 10.0,
+          "display": "10",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 72,
+          "value": 35.92,
+          "display": "35.92",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 135,
+          "value": 32.9,
+          "display": "32.9",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 12.72,
+          "display": "12.72",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 11.5,
+          "display": "11.5",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 31,
+          "value": 1.61,
+          "display": "1.61",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 302,
+          "value": -1.6,
+          "display": "-1.6",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 321,
+          "value": 9.94,
+          "display": "9.94",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": 27,
+        "wins": 25,
+        "losses": 7,
+        "pct": 78.1,
+        "display": "25-7",
+        "games": 32
+      }
+    },
+    "Missouri": {
+      "team": "Missouri",
+      "sourceTeam": "Missouri",
+      "stats": {
+        "scoringOffense": {
+          "rank": null,
+          "value": 79.7,
+          "display": "79.7",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 224,
+          "value": 75.3,
+          "display": "75.3",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 125,
+          "value": 4.0,
+          "display": "4",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 120,
+          "value": 35.01,
+          "display": "35.01",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 343,
+          "value": 36.5,
+          "display": "36.5",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 110,
+          "value": 11.59,
+          "display": "11.59",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 267,
+          "value": 12.4,
+          "display": "12.4",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 230,
+          "value": 1.14,
+          "display": "1.14",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 270,
+          "value": -1.0,
+          "display": "-1.0",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 206,
+          "value": 11.41,
+          "display": "11.41",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 20,
+        "losses": 12,
+        "pct": 62.5,
+        "display": "20-12",
+        "games": 32
+      }
+    },
+    "Nebraska": {
+      "team": "Nebraska",
+      "sourceTeam": "Nebraska",
+      "stats": {
+        "scoringOffense": {
+          "rank": 142,
+          "value": 77.3,
+          "display": "77.3",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 21,
+          "value": 66.2,
+          "display": "66.2",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 26,
+          "value": 11.0,
+          "display": "11",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 105,
+          "value": 35.25,
+          "display": "35.25",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 12,
+          "value": 29.9,
+          "display": "29.9",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 330,
+          "value": 8.78,
+          "display": "8.78",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 32,
+          "value": 9.8,
+          "display": "9.8",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 6,
+          "value": 1.84,
+          "display": "1.84",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 21,
+          "value": 3.2,
+          "display": "3.2",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 77,
+          "value": 13.0,
+          "display": "13.00",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 26,
+        "losses": 6,
+        "pct": 81.2,
+        "display": "26-6",
+        "games": 32
+      }
+    },
+    "North Carolina": {
+      "team": "North Carolina",
+      "sourceTeam": "North Carolina",
+      "stats": {
+        "scoringOffense": {
+          "rank": 87,
+          "value": 79.8,
+          "display": "79.8",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 107,
+          "value": 71.3,
+          "display": "71.3",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 50,
+          "value": 8.0,
+          "display": "8",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 161,
+          "value": 34.46,
+          "display": "34.46",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 238,
+          "value": 34.5,
+          "display": "34.5",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 185,
+          "value": 10.78,
+          "display": "10.78",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 26,
+          "value": 9.7,
+          "display": "9.7",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 23,
+          "value": 1.65,
+          "display": "1.65",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": -0.3,
+          "display": "-0.3",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 346,
+          "value": 9.38,
+          "display": "9.38",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 24,
+        "losses": 8,
+        "pct": 75.0,
+        "display": "24-8",
+        "games": 32
+      }
+    },
+    "North Dakota State": {
+      "team": "North Dakota State",
+      "sourceTeam": "North Dakota St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": 70,
+          "value": 80.7,
+          "display": "80.7",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 64,
+          "value": 69.6,
+          "display": "69.6",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": null,
+          "value": 11.0,
+          "display": "11",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 39,
+          "value": 36.53,
+          "display": "36.53",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 163,
+          "value": 33.5,
+          "display": "33.5",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 11.62,
+          "display": "11.62",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 109,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 67,
+          "value": 1.44,
+          "display": "1.44",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 2.9,
+          "display": "2.9",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 13.71,
+          "display": "13.71",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 27,
+        "losses": 7,
+        "pct": 79.4,
+        "display": "27-7",
+        "games": 34
+      }
+    },
+    "Northern Iowa": {
+      "team": "Northern Iowa",
+      "sourceTeam": "UNI",
+      "stats": {
+        "scoringOffense": {
+          "rank": 307,
+          "value": 69.9,
+          "display": "69.9",
+          "games": 35
+        },
+        "scoringDefense": {
+          "rank": 1,
+          "value": 61.3,
+          "display": "61.3",
+          "games": 35
+        },
+        "scoringMargin": {
+          "rank": 47,
+          "value": 8.0,
+          "display": "8",
+          "games": 35
+        },
+        "threePointPct": {
+          "rank": 98,
+          "value": 35.46,
+          "display": "35.46",
+          "games": 35
+        },
+        "threePointPctDefense": {
+          "rank": 3,
+          "value": 28.5,
+          "display": "28.5",
+          "games": 35
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 355,
+          "value": 6.86,
+          "display": "6.86",
+          "games": 35
+        },
+        "turnoversPerGame": {
+          "rank": 16,
+          "value": 9.3,
+          "display": "9.3",
+          "games": 35
+        },
+        "assistTurnoverRatio": {
+          "rank": 30,
+          "value": 1.61,
+          "display": "1.61",
+          "games": 35
+        },
+        "turnoverMargin": {
+          "rank": 49,
+          "value": 2.5,
+          "display": "2.5",
+          "games": 35
+        },
+        "turnoversForcedPerGame": {
+          "rank": 155,
+          "value": 11.89,
+          "display": "11.89",
+          "games": 35
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 23,
+        "losses": 12,
+        "pct": 65.7,
+        "display": "23-12",
+        "games": 35
+      }
+    },
+    "Ohio State": {
+      "team": "Ohio State",
+      "sourceTeam": "Ohio St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": null,
+          "value": 79.8,
+          "display": "79.8",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 144,
+          "value": 72.8,
+          "display": "72.8",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 69,
+          "value": 7.0,
+          "display": "7",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 64,
+          "value": 36.03,
+          "display": "36.03",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 61,
+          "value": 31.6,
+          "display": "31.6",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 307,
+          "value": 9.3,
+          "display": "9.30",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 68,
+          "value": 10.4,
+          "display": "10.4",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 86,
+          "value": 1.38,
+          "display": "1.38",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 0.2,
+          "display": ".2",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 275,
+          "value": 10.61,
+          "display": "10.61",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 21,
+        "losses": 12,
+        "pct": 63.6,
+        "display": "21-12",
+        "games": 33
+      }
+    },
+    "Penn": {
+      "team": "Penn",
+      "sourceTeam": "Penn",
+      "stats": {
+        "scoringOffense": {
+          "rank": 168,
+          "value": 76.1,
+          "display": "76.1",
+          "games": 29
+        },
+        "scoringDefense": {
+          "rank": 160,
+          "value": 73.3,
+          "display": "73.3",
+          "games": 29
+        },
+        "scoringMargin": {
+          "rank": 162,
+          "value": 2.0,
+          "display": "2",
+          "games": 29
+        },
+        "threePointPct": {
+          "rank": 14,
+          "value": 38.61,
+          "display": "38.61",
+          "games": 29
+        },
+        "threePointPctDefense": {
+          "rank": 68,
+          "value": 31.7,
+          "display": "31.7",
+          "games": 29
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 118,
+          "value": 11.52,
+          "display": "11.52",
+          "games": 29
+        },
+        "turnoversPerGame": {
+          "rank": 117,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 29
+        },
+        "assistTurnoverRatio": {
+          "rank": 133,
+          "value": 1.29,
+          "display": "1.29",
+          "games": 29
+        },
+        "turnoverMargin": {
+          "rank": 74,
+          "value": 1.7,
+          "display": "1.7",
+          "games": 29
+        },
+        "turnoversForcedPerGame": {
+          "rank": 107,
+          "value": 12.52,
+          "display": "12.52",
+          "games": 29
+        }
+      },
+      "record": {
+        "rank": 103,
+        "wins": 18,
+        "losses": 11,
+        "pct": 62.1,
+        "display": "18-11",
+        "games": 29
+      }
+    },
+    "Prairie View A&M": {
+      "team": "Prairie View A&M",
+      "sourceTeam": "Prairie View",
+      "stats": {
+        "scoringOffense": {
+          "rank": 103,
+          "value": 78.9,
+          "display": "78.9",
+          "games": 35
+        },
+        "scoringDefense": {
+          "rank": 235,
+          "value": 76.1,
+          "display": "76.1",
+          "games": 35
+        },
+        "scoringMargin": {
+          "rank": 160,
+          "value": 2.0,
+          "display": "2",
+          "games": 35
+        },
+        "threePointPct": {
+          "rank": 207,
+          "value": 33.44,
+          "display": "33.44",
+          "games": 35
+        },
+        "threePointPctDefense": {
+          "rank": 165,
+          "value": 33.5,
+          "display": "33.5",
+          "games": 35
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 256,
+          "value": 10.06,
+          "display": "10.06",
+          "games": 35
+        },
+        "turnoversPerGame": {
+          "rank": 220,
+          "value": 11.9,
+          "display": "11.9",
+          "games": 35
+        },
+        "assistTurnoverRatio": {
+          "rank": 304,
+          "value": 1.0,
+          "display": "1.00",
+          "games": 35
+        },
+        "turnoverMargin": {
+          "rank": 17,
+          "value": 3.4,
+          "display": "3.4",
+          "games": 35
+        },
+        "turnoversForcedPerGame": {
+          "rank": 6,
+          "value": 15.29,
+          "display": "15.29",
+          "games": 35
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 18,
+        "losses": 17,
+        "pct": 51.4,
+        "display": "18-17",
+        "games": 35
+      }
+    },
+    "Purdue": {
+      "team": "Purdue",
+      "sourceTeam": "Purdue",
+      "stats": {
+        "scoringOffense": {
+          "rank": 54,
+          "value": 81.7,
+          "display": "81.7",
+          "games": 35
+        },
+        "scoringDefense": {
+          "rank": 75,
+          "value": 70.1,
+          "display": "70.1",
+          "games": 35
+        },
+        "scoringMargin": {
+          "rank": 23,
+          "value": 11.0,
+          "display": "11",
+          "games": 35
+        },
+        "threePointPct": {
+          "rank": 20,
+          "value": 37.92,
+          "display": "37.92",
+          "games": 35
+        },
+        "threePointPctDefense": {
+          "rank": 224,
+          "value": 34.2,
+          "display": "34.2",
+          "games": 35
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 135,
+          "value": 11.29,
+          "display": "11.29",
+          "games": 35
+        },
+        "turnoversPerGame": {
+          "rank": 5,
+          "value": 8.9,
+          "display": "8.9",
+          "games": 35
+        },
+        "assistTurnoverRatio": {
+          "rank": 1,
+          "value": 2.25,
+          "display": "2.25",
+          "games": 35
+        },
+        "turnoverMargin": {
+          "rank": 91,
+          "value": 1.4,
+          "display": "1.4",
+          "games": 35
+        },
+        "turnoversForcedPerGame": {
+          "rank": 298,
+          "value": 10.23,
+          "display": "10.23",
+          "games": 35
+        }
+      },
+      "record": {
+        "rank": 29,
+        "wins": 27,
+        "losses": 8,
+        "pct": 77.1,
+        "display": "27-8",
+        "games": 35
+      }
+    },
+    "Queens": {
+      "team": "Queens",
+      "sourceTeam": "Queens (NC)",
+      "stats": {
+        "scoringOffense": {
+          "rank": 19,
+          "value": 84.9,
+          "display": "84.9",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 349,
+          "value": 82.9,
+          "display": "82.9",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 178,
+          "value": 1.0,
+          "display": "1",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 69,
+          "value": 35.97,
+          "display": "35.97",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 290,
+          "value": 35.4,
+          "display": "35.4",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 241,
+          "value": 10.24,
+          "display": "10.24",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.7,
+          "display": "10.7",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 53,
+          "value": 1.49,
+          "display": "1.49",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 177,
+          "value": 0.2,
+          "display": ".2",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 258,
+          "value": 10.88,
+          "display": "10.88",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 21,
+        "losses": 13,
+        "pct": 61.8,
+        "display": "21-13",
+        "games": 34
+      }
+    },
+    "Saint Louis": {
+      "team": "Saint Louis",
+      "sourceTeam": "Saint Louis",
+      "stats": {
+        "scoringOffense": {
+          "rank": 10,
+          "value": 87.2,
+          "display": "87.2",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 61,
+          "value": 69.5,
+          "display": "69.5",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 4,
+          "value": 17.0,
+          "display": "17",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 2,
+          "value": 40.09,
+          "display": "40.09",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 5,
+          "value": 29.4,
+          "display": "29.4",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 10.24,
+          "display": "10.24",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 12.5,
+          "display": "12.5",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 58,
+          "value": 1.47,
+          "display": "1.47",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 253,
+          "value": -0.8,
+          "display": "-0.8",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 11.7,
+          "display": "11.70",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 28,
+        "losses": 5,
+        "pct": 84.8,
+        "display": "28-5",
+        "games": 33
+      }
+    },
+    "Saint Mary's": {
+      "team": "Saint Mary's",
+      "sourceTeam": "Saint Mary's (CA)",
+      "stats": {
+        "scoringOffense": {
+          "rank": null,
+          "value": 78.2,
+          "display": "78.2",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 7,
+          "value": 64.6,
+          "display": "64.6",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 13,
+          "value": 13.0,
+          "display": "13",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 11,
+          "value": 38.86,
+          "display": "38.86",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 38,
+          "value": 30.9,
+          "display": "30.9",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 12.44,
+          "display": "12.44",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 70,
+          "value": 1.43,
+          "display": "1.43",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": -0.5,
+          "display": "-0.5",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 10.31,
+          "display": "10.31",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": 12,
+        "wins": 27,
+        "losses": 5,
+        "pct": 84.4,
+        "display": "27-5",
+        "games": 32
+      }
+    },
+    "Santa Clara": {
+      "team": "Santa Clara",
+      "sourceTeam": "Santa Clara",
+      "stats": {
+        "scoringOffense": {
+          "rank": 38,
+          "value": 82.9,
+          "display": "82.9",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 134,
+          "value": 72.4,
+          "display": "72.4",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 33,
+          "value": 10.0,
+          "display": "10",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 156,
+          "value": 34.61,
+          "display": "34.61",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 121,
+          "value": 32.7,
+          "display": "32.7",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 27,
+          "value": 13.09,
+          "display": "13.09",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 39,
+          "value": 1.55,
+          "display": "1.55",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 22,
+          "value": 3.2,
+          "display": "3.2",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 31,
+          "value": 14.06,
+          "display": "14.06",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 26,
+        "losses": 8,
+        "pct": 76.5,
+        "display": "26-8",
+        "games": 34
+      }
+    },
+    "Siena": {
+      "team": "Siena",
+      "sourceTeam": "Siena",
+      "stats": {
+        "scoringOffense": {
+          "rank": 292,
+          "value": 70.5,
+          "display": "70.5",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 15,
+          "value": 65.7,
+          "display": "65.7",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 113,
+          "value": 4.0,
+          "display": "4",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 334,
+          "value": 30.45,
+          "display": "30.45",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 128,
+          "value": 32.8,
+          "display": "32.8",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 247,
+          "value": 10.18,
+          "display": "10.18",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 63,
+          "value": 10.3,
+          "display": "10.3",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 130,
+          "value": 1.3,
+          "display": "1.30",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 137,
+          "value": 0.7,
+          "display": ".7",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 246,
+          "value": 11.03,
+          "display": "11.03",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 23,
+        "losses": 11,
+        "pct": 67.6,
+        "display": "23-11",
+        "games": 34
+      }
+    },
+    "South Florida": {
+      "team": "South Florida",
+      "sourceTeam": "South Fla.",
+      "stats": {
+        "scoringOffense": {
+          "rank": 8,
+          "value": 87.7,
+          "display": "87.7",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 228,
+          "value": 75.5,
+          "display": "75.5",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 19,
+          "value": 12.0,
+          "display": "12",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 223,
+          "value": 33.19,
+          "display": "33.19",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 197,
+          "value": 33.9,
+          "display": "33.9",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 3,
+          "value": 15.48,
+          "display": "15.48",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": 147,
+          "value": 11.2,
+          "display": "11.2",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 41,
+          "value": 1.54,
+          "display": "1.54",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 28,
+          "value": 3.1,
+          "display": "3.1",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 14.27,
+          "display": "14.27",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 25,
+        "losses": 8,
+        "pct": 75.8,
+        "display": "25-8",
+        "games": 33
+      }
+    },
+    "St. John's": {
+      "team": "St. John's",
+      "sourceTeam": "St. John's (NY)",
+      "stats": {
+        "scoringOffense": {
+          "rank": 56,
+          "value": 81.6,
+          "display": "81.6",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 69,
+          "value": 70.0,
+          "display": "70.0",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 22,
+          "value": 11.0,
+          "display": "11",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 220,
+          "value": 33.24,
+          "display": "33.24",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 46,
+          "value": 31.3,
+          "display": "31.3",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 13.09,
+          "display": "13.09",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 79,
+          "value": 10.5,
+          "display": "10.5",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 38,
+          "value": 1.55,
+          "display": "1.55",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 3.3,
+          "display": "3.3",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 13.79,
+          "display": "13.79",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 28,
+        "losses": 6,
+        "pct": 82.4,
+        "display": "28-6",
+        "games": 34
+      }
+    },
+    "TCU": {
+      "team": "TCU",
+      "sourceTeam": "TCU",
+      "stats": {
+        "scoringOffense": {
+          "rank": null,
+          "value": 78.3,
+          "display": "78.3",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 124,
+          "value": 72.1,
+          "display": "72.1",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 83,
+          "value": 6.0,
+          "display": "6",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 233,
+          "value": 33.11,
+          "display": "33.11",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 182,
+          "value": 33.7,
+          "display": "33.7",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 57,
+          "value": 12.42,
+          "display": "12.42",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.9,
+          "display": "10.9",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 71,
+          "value": 1.43,
+          "display": "1.43",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 2.9,
+          "display": "2.9",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 35,
+          "value": 13.85,
+          "display": "13.85",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 22,
+        "losses": 11,
+        "pct": 66.7,
+        "display": "22-11",
+        "games": 33
+      }
+    },
+    "Tennessee": {
+      "team": "Tennessee",
+      "sourceTeam": "Tennessee",
+      "stats": {
+        "scoringOffense": {
+          "rank": 95,
+          "value": 79.5,
+          "display": "79.5",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 57,
+          "value": 69.4,
+          "display": "69.4",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 35,
+          "value": 10.0,
+          "display": "10",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 206,
+          "value": 33.44,
+          "display": "33.44",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 30,
+          "value": 30.6,
+          "display": "30.6",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 2,
+          "value": 16.03,
+          "display": "16.03",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 11.7,
+          "display": "11.7",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 64,
+          "value": 1.45,
+          "display": "1.45",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 241,
+          "value": -0.6,
+          "display": "-0.6",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 236,
+          "value": 11.09,
+          "display": "11.09",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 22,
+        "losses": 11,
+        "pct": 66.7,
+        "display": "22-11",
+        "games": 33
+      }
+    },
+    "Tennessee State": {
+      "team": "Tennessee State",
+      "sourceTeam": "Tennessee St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": 75,
+          "value": 80.5,
+          "display": "80.5",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": null,
+          "value": 73.3,
+          "display": "73.3",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": null,
+          "value": 7.0,
+          "display": "7",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 231,
+          "value": 33.12,
+          "display": "33.12",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 127,
+          "value": 32.8,
+          "display": "32.8",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 13.03,
+          "display": "13.03",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 253,
+          "value": 12.2,
+          "display": "12.2",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 259,
+          "value": 1.08,
+          "display": "1.08",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 51,
+          "value": 2.5,
+          "display": "2.5",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 14.66,
+          "display": "14.66",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 23,
+        "losses": 9,
+        "pct": 71.9,
+        "display": "23-9",
+        "games": 32
+      }
+    },
+    "Texas": {
+      "team": "Texas",
+      "sourceTeam": "Texas",
+      "stats": {
+        "scoringOffense": {
+          "rank": 31,
+          "value": 83.3,
+          "display": "83.3",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 250,
+          "value": 76.5,
+          "display": "76.5",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 73,
+          "value": 6.0,
+          "display": "6",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 111,
+          "value": 35.17,
+          "display": "35.17",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 318,
+          "value": 36.0,
+          "display": "36.0",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 12.09,
+          "display": "12.09",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 11.1,
+          "display": "11.1",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 248,
+          "value": 1.11,
+          "display": "1.11",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": 310,
+          "value": -1.7,
+          "display": "-1.7",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": 347,
+          "value": 9.36,
+          "display": "9.36",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 19,
+        "losses": 14,
+        "pct": 57.6,
+        "display": "19-14",
+        "games": 33
+      }
+    },
+    "Texas A&M": {
+      "team": "Texas A&M",
+      "sourceTeam": "Texas A&M",
+      "stats": {
+        "scoringOffense": {
+          "rank": 9,
+          "value": 87.7,
+          "display": "87.7",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": null,
+          "value": 79.6,
+          "display": "79.6",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 56,
+          "value": 8.0,
+          "display": "8",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 49,
+          "value": 36.19,
+          "display": "36.19",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 64,
+          "value": 31.7,
+          "display": "31.7",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 12.22,
+          "display": "12.22",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 119,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 20,
+          "value": 1.67,
+          "display": "1.67",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 2.7,
+          "display": "2.7",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 57,
+          "value": 13.56,
+          "display": "13.56",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 21,
+        "losses": 11,
+        "pct": 65.6,
+        "display": "21-11",
+        "games": 32
+      }
+    },
+    "Texas Tech": {
+      "team": "Texas Tech",
+      "sourceTeam": "Texas Tech",
+      "stats": {
+        "scoringOffense": {
+          "rank": 76,
+          "value": 80.4,
+          "display": "80.4",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 139,
+          "value": 72.6,
+          "display": "72.6",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 58,
+          "value": 7.0,
+          "display": "7",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 5,
+          "value": 39.34,
+          "display": "39.34",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 52,
+          "value": 31.5,
+          "display": "31.5",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 115,
+          "value": 11.53,
+          "display": "11.53",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 61,
+          "value": 1.47,
+          "display": "1.47",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 255,
+          "value": -0.8,
+          "display": "-0.8",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 10.03,
+          "display": "10.03",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 22,
+        "losses": 10,
+        "pct": 68.8,
+        "display": "22-10",
+        "games": 32
+      }
+    },
+    "Troy": {
+      "team": "Troy",
+      "sourceTeam": "Troy",
+      "stats": {
+        "scoringOffense": {
+          "rank": 78,
+          "value": 80.3,
+          "display": "80.3",
+          "games": 33
+        },
+        "scoringDefense": {
+          "rank": 152,
+          "value": 73.1,
+          "display": "73.1",
+          "games": 33
+        },
+        "scoringMargin": {
+          "rank": 66,
+          "value": 7.0,
+          "display": "7",
+          "games": 33
+        },
+        "threePointPct": {
+          "rank": 204,
+          "value": 33.48,
+          "display": "33.48",
+          "games": 33
+        },
+        "threePointPctDefense": {
+          "rank": 45,
+          "value": 31.3,
+          "display": "31.3",
+          "games": 33
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 41,
+          "value": 12.73,
+          "display": "12.73",
+          "games": 33
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 11.9,
+          "display": "11.9",
+          "games": 33
+        },
+        "assistTurnoverRatio": {
+          "rank": 102,
+          "value": 1.34,
+          "display": "1.34",
+          "games": 33
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 0.8,
+          "display": ".8",
+          "games": 33
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 12.73,
+          "display": "12.73",
+          "games": 33
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 22,
+        "losses": 11,
+        "pct": 66.7,
+        "display": "22-11",
+        "games": 33
+      }
+    },
+    "UCF": {
+      "team": "UCF",
+      "sourceTeam": "UCF",
+      "stats": {
+        "scoringOffense": {
+          "rank": 66,
+          "value": 81.0,
+          "display": "81.0",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": 302,
+          "value": 78.5,
+          "display": "78.5",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 172,
+          "value": 2.0,
+          "display": "2",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 52,
+          "value": 36.17,
+          "display": "36.17",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 214,
+          "value": 34.0,
+          "display": "34.0",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 12.38,
+          "display": "12.38",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 11.2,
+          "display": "11.2",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 74,
+          "value": 1.41,
+          "display": "1.41",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": 184,
+          "value": 0.1,
+          "display": ".1",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": 221,
+          "value": 11.25,
+          "display": "11.25",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 21,
+        "losses": 11,
+        "pct": 65.6,
+        "display": "21-11",
+        "games": 32
+      }
+    },
+    "UCLA": {
+      "team": "UCLA",
+      "sourceTeam": "UCLA",
+      "stats": {
+        "scoringOffense": {
+          "rank": 129,
+          "value": 77.7,
+          "display": "77.7",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 101,
+          "value": 71.0,
+          "display": "71.0",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 74,
+          "value": 6.0,
+          "display": "6",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 18,
+          "value": 38.2,
+          "display": "38.20",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 70,
+          "value": 31.8,
+          "display": "31.8",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 264,
+          "value": 9.97,
+          "display": "9.97",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 7,
+          "value": 8.9,
+          "display": "8.9",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 7,
+          "value": 1.84,
+          "display": "1.84",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 27,
+          "value": 3.1,
+          "display": "3.1",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 12.03,
+          "display": "12.03",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 23,
+        "losses": 11,
+        "pct": 67.6,
+        "display": "23-11",
+        "games": 34
+      }
+    },
+    "UConn": {
+      "team": "UConn",
+      "sourceTeam": "UConn",
+      "stats": {
+        "scoringOffense": {
+          "rank": 139,
+          "value": 77.5,
+          "display": "77.5",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 11,
+          "value": 65.1,
+          "display": "65.1",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 17,
+          "value": 12.0,
+          "display": "12",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 109,
+          "value": 35.2,
+          "display": "35.20",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 22,
+          "value": 30.3,
+          "display": "30.3",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 11.62,
+          "display": "11.62",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 149,
+          "value": 11.2,
+          "display": "11.2",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 25,
+          "value": 1.64,
+          "display": "1.64",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 0.8,
+          "display": ".8",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 12.0,
+          "display": "12.00",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 29,
+        "losses": 5,
+        "pct": 85.3,
+        "display": "29-5",
+        "games": 34
+      }
+    },
+    "Utah State": {
+      "team": "Utah State",
+      "sourceTeam": "Utah St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": 46,
+          "value": 82.5,
+          "display": "82.5",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 81,
+          "value": 70.4,
+          "display": "70.4",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 20,
+          "value": 12.0,
+          "display": "12",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 80,
+          "value": 35.82,
+          "display": "35.82",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 184,
+          "value": 33.8,
+          "display": "33.8",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 10.91,
+          "display": "10.91",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.6,
+          "display": "10.6",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 21,
+          "value": 1.66,
+          "display": "1.66",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 12,
+          "value": 3.6,
+          "display": "3.6",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 28,
+          "value": 14.21,
+          "display": "14.21",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 28,
+        "losses": 6,
+        "pct": 82.4,
+        "display": "28-6",
+        "games": 34
+      }
+    },
+    "VCU": {
+      "team": "VCU",
+      "sourceTeam": "VCU",
+      "stats": {
+        "scoringOffense": {
+          "rank": null,
+          "value": 81.6,
+          "display": "81.6",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 111,
+          "value": 71.5,
+          "display": "71.5",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 36,
+          "value": 10.0,
+          "display": "10",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 37,
+          "value": 36.69,
+          "display": "36.69",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 144,
+          "value": 33.1,
+          "display": "33.1",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 148,
+          "value": 11.18,
+          "display": "11.18",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.5,
+          "display": "10.5",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 109,
+          "value": 1.34,
+          "display": "1.34",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 1.4,
+          "display": "1.4",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": 153,
+          "value": 11.91,
+          "display": "11.91",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 27,
+        "losses": 7,
+        "pct": 79.4,
+        "display": "27-7",
+        "games": 34
+      }
+    },
+    "Vanderbilt": {
+      "team": "Vanderbilt",
+      "sourceTeam": "Vanderbilt",
+      "stats": {
+        "scoringOffense": {
+          "rank": 13,
+          "value": 86.4,
+          "display": "86.4",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 218,
+          "value": 75.2,
+          "display": "75.2",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 24,
+          "value": 11.0,
+          "display": "11",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 95,
+          "value": 35.53,
+          "display": "35.53",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 86,
+          "value": 32.2,
+          "display": "32.2",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 194,
+          "value": 10.71,
+          "display": "10.71",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 21,
+          "value": 9.5,
+          "display": "9.5",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 14,
+          "value": 1.72,
+          "display": "1.72",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 20,
+          "value": 3.3,
+          "display": "3.3",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 12.76,
+          "display": "12.76",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 26,
+        "losses": 8,
+        "pct": 76.5,
+        "display": "26-8",
+        "games": 34
+      }
+    },
+    "Villanova": {
+      "team": "Villanova",
+      "sourceTeam": "Villanova",
+      "stats": {
+        "scoringOffense": {
+          "rank": 147,
+          "value": 77.2,
+          "display": "77.2",
+          "games": 32
+        },
+        "scoringDefense": {
+          "rank": null,
+          "value": 70.8,
+          "display": "70.8",
+          "games": 32
+        },
+        "scoringMargin": {
+          "rank": 80,
+          "value": 6.0,
+          "display": "6",
+          "games": 32
+        },
+        "threePointPct": {
+          "rank": 104,
+          "value": 35.28,
+          "display": "35.28",
+          "games": 32
+        },
+        "threePointPctDefense": {
+          "rank": 203,
+          "value": 33.9,
+          "display": "33.9",
+          "games": 32
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 11.53,
+          "display": "11.53",
+          "games": 32
+        },
+        "turnoversPerGame": {
+          "rank": 48,
+          "value": 10.1,
+          "display": "10.1",
+          "games": 32
+        },
+        "assistTurnoverRatio": {
+          "rank": 44,
+          "value": 1.53,
+          "display": "1.53",
+          "games": 32
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 2.5,
+          "display": "2.5",
+          "games": 32
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 12.59,
+          "display": "12.59",
+          "games": 32
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 24,
+        "losses": 8,
+        "pct": 75.0,
+        "display": "24-8",
+        "games": 32
+      }
+    },
+    "Virginia": {
+      "team": "Virginia",
+      "sourceTeam": "Virginia",
+      "stats": {
+        "scoringOffense": {
+          "rank": 72,
+          "value": 80.6,
+          "display": "80.6",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 42,
+          "value": 68.4,
+          "display": "68.4",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 18,
+          "value": 12.0,
+          "display": "12",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 70,
+          "value": 35.95,
+          "display": "35.95",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 37,
+          "value": 30.9,
+          "display": "30.9",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 13.21,
+          "display": "13.21",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": null,
+          "value": 10.8,
+          "display": "10.8",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 45,
+          "value": 1.53,
+          "display": "1.53",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": 213,
+          "value": -0.3,
+          "display": "-0.3",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 10.56,
+          "display": "10.56",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 29,
+        "losses": 5,
+        "pct": 85.3,
+        "display": "29-5",
+        "games": 34
+      }
+    },
+    "Wisconsin": {
+      "team": "Wisconsin",
+      "sourceTeam": "Wisconsin",
+      "stats": {
+        "scoringOffense": {
+          "rank": null,
+          "value": 83.0,
+          "display": "83.0",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 233,
+          "value": 75.9,
+          "display": "75.9",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": 68,
+          "value": 7.0,
+          "display": "7",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 58,
+          "value": 36.1,
+          "display": "36.10",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 153,
+          "value": 33.3,
+          "display": "33.3",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": 224,
+          "value": 10.38,
+          "display": "10.38",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 9,
+          "value": 8.9,
+          "display": "8.9",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 9,
+          "value": 1.79,
+          "display": "1.79",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 1.1,
+          "display": "1.1",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 10.09,
+          "display": "10.09",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 24,
+        "losses": 10,
+        "pct": 70.6,
+        "display": "24-10",
+        "games": 34
+      }
+    },
+    "Wright State": {
+      "team": "Wright State",
+      "sourceTeam": "Wright St.",
+      "stats": {
+        "scoringOffense": {
+          "rank": null,
+          "value": 80.7,
+          "display": "80.7",
+          "games": 34
+        },
+        "scoringDefense": {
+          "rank": 167,
+          "value": 73.4,
+          "display": "73.4",
+          "games": 34
+        },
+        "scoringMargin": {
+          "rank": null,
+          "value": 7.0,
+          "display": "7",
+          "games": 34
+        },
+        "threePointPct": {
+          "rank": 55,
+          "value": 36.13,
+          "display": "36.13",
+          "games": 34
+        },
+        "threePointPctDefense": {
+          "rank": 139,
+          "value": 33.0,
+          "display": "33.0",
+          "games": 34
+        },
+        "offensiveReboundsPerGame": {
+          "rank": null,
+          "value": 11.26,
+          "display": "11.26",
+          "games": 34
+        },
+        "turnoversPerGame": {
+          "rank": 159,
+          "value": 11.3,
+          "display": "11.3",
+          "games": 34
+        },
+        "assistTurnoverRatio": {
+          "rank": 172,
+          "value": 1.22,
+          "display": "1.22",
+          "games": 34
+        },
+        "turnoverMargin": {
+          "rank": null,
+          "value": 0.7,
+          "display": ".7",
+          "games": 34
+        },
+        "turnoversForcedPerGame": {
+          "rank": null,
+          "value": 11.97,
+          "display": "11.97",
+          "games": 34
+        }
+      },
+      "record": {
+        "rank": null,
+        "wins": 23,
+        "losses": 11,
+        "pct": 67.6,
+        "display": "23-11",
+        "games": 34
+      }
+    }
+  },
+  "missing": {}
+}

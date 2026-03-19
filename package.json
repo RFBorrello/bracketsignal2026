@@ -1,0 +1,25 @@
+{
+  "name": "ncaamodel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node ./node_modules/next/dist/bin/next dev",
+    "build": "node ./node_modules/next/dist/bin/next build",
+    "start": "node ./node_modules/next/dist/bin/next start",
+    "typecheck": "node ./scripts/run_typecheck.mjs",
+    "test": "node --import ./node_modules/tsx/dist/loader.mjs --test src/**/*.test.ts"
+  },
+  "dependencies": {
+    "next": "15.3.1",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.30",
+    "@types/react": "19.1.6",
+    "@types/react-dom": "19.1.5",
+    "tsx": "4.19.4",
+    "typescript": "5.8.3"
+  }
+}

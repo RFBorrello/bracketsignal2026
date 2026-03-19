@@ -1,0 +1,12 @@
+node_modules
+.next
+dist
+__pycache__
+.pytest_cache
+*.pyc
+*.tsbuildinfo
+.venv
+.venv-data
+.DS_Store
+data/raw
+!data/raw/.gitkeep
