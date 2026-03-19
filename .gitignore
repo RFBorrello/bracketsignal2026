@@ -8,5 +8,6 @@ __pycache__
 .venv
 .venv-data
 .DS_Store
+.vercel
 data/raw
 !data/raw/.gitkeep
